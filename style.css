@@ -1,0 +1,18 @@
+body{
+color: rgb(255, 255, 255);
+background-image:url(imagens_formatacao/002.jpg) ;
+background-repeat: no-repeat;
+background-position: 100%;
+background-size: cover;
+background-position: center;
+font: 1em sans-serif;
+text-align: center;
+}
+
+h1{
+    color:rgb(0, 0, 0)
+}
+
+.conteiner {width: 200; height: 100;
+
+}
